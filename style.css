@@ -1,0 +1,16 @@
+body{
+    width: 100vw;
+}
+
+table{
+    border-collapse: collapse;
+    overflow-x: auto;
+    width: auto;
+}
+
+th,td{
+    border: 1px solid black;
+    min-width: 80px;
+    max-width: 80px;
+    outline: none;
+}
